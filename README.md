@@ -22,3 +22,4 @@ The results of the analysis:
 ![Checkout Times by Gender](https://github.com/Oysterrr/bikesharing/blob/main/Resources/Checkout%20Times%20by%20Gender.png)
 
 ## Summary
+We can assume from the graphs above that most of the citibike riders in NYC are work commuters instead of tourists since the peak times of the rides are during rush hours in the morning (7-9am) and in the afternoon (4-7pm). In NYC, majority of the riders are male, which is however, unnecessarily significant for the proposal. In addition to that, the peak ride time in NYC is around 5 minutes, which can be taken in consideration when building the bike-sharing program in Des Moines. Considering Des Moines is a less populated city than NYC, the distance between bike stations should be adjusted accordingly since the distance between places in Des Moines is relatively further.
